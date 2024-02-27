@@ -1,0 +1,18 @@
+input{
+    height: 45px;
+    width: 550px;
+    font-size: larger;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.users{
+    font-family: cursive
+}
+button{
+    margin-left: 20px;
+    margin-top: -10px;
+    height: 45px;
+    width:150px
+}
